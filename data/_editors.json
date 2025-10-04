@@ -1,8 +1,15 @@
 [
     {
         "role": "owner",
-        "name": "CeeCeeNin",
+        "name": "CeeCeeNinja",
         "link": "https://www.youtube.com/@CeeCeeNinja"
+        
+    },
+        {
+        "role": "owner",
+        "name": "Xyz999",
+        "link": "https://www.youtube.com/@Xyz-zyX-9"
+        
     },
     {
         "role": "admin",
